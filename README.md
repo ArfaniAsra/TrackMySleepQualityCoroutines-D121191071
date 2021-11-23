@@ -59,3 +59,8 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.# TrackMySleepQuality-D121191071
 # TrackMySleepQuality-D121191071
+-------------------------------------------------------------------------------
+<img width="910" alt="P13-1" src="https://user-images.githubusercontent.com/67674667/143081756-95c234ba-aa61-4514-b6f2-fa0cb906eb99.png">
+<img width="204" alt="P13-2" src="https://user-images.githubusercontent.com/67674667/143081766-32c00944-f6ae-4d64-b905-4fcd2fa7f1ee.png">
+<img width="204" alt="P13-3" src="https://user-images.githubusercontent.com/67674667/143081768-915d63a5-bac2-4b4c-be8e-bf67e7de310a.png">
+<img width="204" alt="P13-4" src="https://user-images.githubusercontent.com/67674667/143081770-f9a48720-d8fa-4fa8-9842-4eeb1d6e88b3.png">

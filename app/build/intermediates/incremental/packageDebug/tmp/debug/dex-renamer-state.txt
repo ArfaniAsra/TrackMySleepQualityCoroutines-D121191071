@@ -1,0 +1,4 @@
+#Wed Nov 24 01:45:28 SGT 2021
+base.0=D\:\\Kuliah\\Semester 5\\Pemrograman Mobile\\D121191071_TugasFragment\\android-kotlin-fundamentals-starter-apps\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
